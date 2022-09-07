@@ -1,3 +1,6 @@
+require("puppeteer-extra-plugin-stealth");
+require("puppeteer-extra-plugin-stealth");
+
 const bot = require("../lib/bot");
 const app = require("express")();
 
